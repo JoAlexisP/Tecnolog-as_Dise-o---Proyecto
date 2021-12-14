@@ -1,4 +1,4 @@
-# Tecnolog-as_Dise-o---Proyecto
+# Tecnologias_Diseno---Proyecto
 Proyecto de la EE Tecnologías para la Construcción de Software
 
 
